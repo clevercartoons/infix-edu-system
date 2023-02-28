@@ -1,0 +1,24 @@
+ {
+  "version": "6.8.3",
+  "release_date": "02/02/2023",
+  "min": "6.7.0",
+  "migrations": [  
+    "database/migrations/2022_11_18_053137_create_colors_table.php",
+    "database/migrations/2022_11_18_095219_create_themes_table.php",
+    "database/migrations/2022_11_18_095321_create_color_theme_table.php",
+    "database/migrations/2022_12_06_060950_add_column_currency_format_to_sm_currencies_table.php",
+    "database/migrations/2022_12_08_142623_create_staff_import_bulk_temporaries_table.php",
+    "database/migrations/2022_12_19_044113_add_column_active_status_for_all.php",
+    "database/migrations/2022_12_19_060543_create_student_record_temporaries_table.php",
+    "database/migrations/2022_12_22_100340_add_lang_type_to_sm_backups_table.php",
+    "database/migrations/2022_12_23_115027_add_type_to_sm_sms_gateways_table.php",
+    "database/migrations/2022_12_30_033620_drop_foreign_column.php",
+    "database/migrations/2023_01_16_110836_fixing_module_add_on_url.php",
+    "database/migrations/2023_01_23_050145_fixing_theme_table.php",
+    "database/migrations/2023_01_25_075049_fix_bank_statement_table.php",
+    "database/migrations/2023_01_27_111653_add_colum_to_infix_module_student_parent_infos.php",
+    "database/migrations/2023_02_01_124039_drop_sm_pages_subtitle_duplicate.php"
+  ],
+  "url": "https://spondonit.com/contact",
+  "notes": "This is a bug fixing update."
+}
